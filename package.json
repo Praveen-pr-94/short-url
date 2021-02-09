@@ -1,0 +1,19 @@
+{
+  "name": "short-url",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Praveen-pr-94/short-url.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Praveen-pr-94/short-url/issues"
+  },
+  "homepage": "https://github.com/Praveen-pr-94/short-url#readme"
+}
